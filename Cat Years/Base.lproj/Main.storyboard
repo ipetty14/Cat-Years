@@ -64,8 +64,8 @@
                                 <color key="textColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cat-pet-animal-domestic-104827.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="apA-Gw-G6H">
-                                <rect key="frame" x="16" y="333" width="343" height="246"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cat-image.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="60f-2B-avF">
+                                <rect key="frame" x="16" y="285" width="343" height="308"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -82,6 +82,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="cat-pet-animal-domestic-104827.jpeg" width="5360" height="3560"/>
+        <image name="cat-image.jpeg" width="5360" height="3560"/>
     </resources>
 </document>

@@ -12,7 +12,7 @@
 		71682C671E830F9D007D0968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71682C651E830F9D007D0968 /* Main.storyboard */; };
 		71682C691E830F9E007D0968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71682C681E830F9E007D0968 /* Assets.xcassets */; };
 		71682C6C1E830F9E007D0968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71682C6A1E830F9E007D0968 /* LaunchScreen.storyboard */; };
-		71682C741E830FB9007D0968 /* cat-pet-animal-domestic-104827.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71682C731E830FB9007D0968 /* cat-pet-animal-domestic-104827.jpeg */; };
+		7197B7E61E8C58D90060AD7F /* cat-image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7197B7E41E8C58D90060AD7F /* cat-image.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		71682C681E830F9E007D0968 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71682C6B1E830F9E007D0968 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71682C6D1E830F9E007D0968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		71682C731E830FB9007D0968 /* cat-pet-animal-domestic-104827.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "cat-pet-animal-domestic-104827.jpeg"; path = "../../../../Desktop/cat-pet-animal-domestic-104827.jpeg"; sourceTree = "<group>"; };
+		7197B7E51E8C58D90060AD7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Base; path = "Base.lproj/cat-image.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				71682C611E830F9D007D0968 /* AppDelegate.swift */,
 				71682C631E830F9D007D0968 /* ViewController.swift */,
 				71682C651E830F9D007D0968 /* Main.storyboard */,
-				71682C731E830FB9007D0968 /* cat-pet-animal-domestic-104827.jpeg */,
+				7197B7E41E8C58D90060AD7F /* cat-image.jpeg */,
 				71682C681E830F9E007D0968 /* Assets.xcassets */,
 				71682C6A1E830F9E007D0968 /* LaunchScreen.storyboard */,
 				71682C6D1E830F9E007D0968 /* Info.plist */,
@@ -126,9 +126,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				71682C741E830FB9007D0968 /* cat-pet-animal-domestic-104827.jpeg in Resources */,
 				71682C6C1E830F9E007D0968 /* LaunchScreen.storyboard in Resources */,
 				71682C691E830F9E007D0968 /* Assets.xcassets in Resources */,
+				7197B7E61E8C58D90060AD7F /* cat-image.jpeg in Resources */,
 				71682C671E830F9D007D0968 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -162,6 +162,14 @@
 				71682C6B1E830F9E007D0968 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		7197B7E41E8C58D90060AD7F /* cat-image.jpeg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7197B7E51E8C58D90060AD7F /* Base */,
+			);
+			name = "cat-image.jpeg";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -301,6 +309,7 @@
 				71682C721E830F9E007D0968 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

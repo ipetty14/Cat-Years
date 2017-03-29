@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DC6A9544FD3CD2AF21BD1CC642017B70172F7B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DC6A9544FD3CD2AF21BD1CC642017B70172F7B3" : 9223372036854775807,
+    "5B5E5A1B907488D3FEC63AA12F7D86C35305A9DC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7AED23A1-EE59-416C-A5D9-698977230C27",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DC6A9544FD3CD2AF21BD1CC642017B70172F7B3" : "Cat-Years\/",
+    "5B5E5A1B907488D3FEC63AA12F7D86C35305A9DC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cat Years",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cat Years.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ipetty14\/Cat-Years.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B5E5A1B907488D3FEC63AA12F7D86C35305A9DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ipetty14\/Cat-Years.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DC6A9544FD3CD2AF21BD1CC642017B70172F7B3"
+    }
+  ]
+}
